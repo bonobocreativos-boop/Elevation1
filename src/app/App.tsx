@@ -13,7 +13,7 @@ const IMGS = {
   surgeonA:     UNSPLASH("photo-1640876777002-badf6aee5bcc", 400, 300),
   surgeonB:     UNSPLASH("photo-1639154968821-6dbc3efb8d23", 400, 300),
   doctorTablet: UNSPLASH("photo-1582750433449-648ed127bb54", 700, 840),
-  doctorPortal: UNSPLASH("photo-1612276529731-4b21494e6d71", 480, 540),
+  doctorPortal: "https://res.cloudinary.com/dvm7fjhxs/image/upload/v1783568508/akram-huseyn-brbF5FSnSgI-unsplash_uigy0k.jpg",
   biomedical:   UNSPLASH("photo-1614935151651-0bea6508db6b", 700, 500),
 };
 
