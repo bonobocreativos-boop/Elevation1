@@ -353,7 +353,7 @@ function About() {
 
         <div className="rounded-3xl overflow-hidden" style={{ height: 420 }}>
           <ImageWithFallback
-            src={IMGS.surgeryWide}
+            src="https://res.cloudinary.com/dvm7fjhxs/image/upload/v1783558935/El_Spine_products-7_s0qshq.jpg"
             alt="Spine surgery"
             className="w-full h-full object-cover"
           />
