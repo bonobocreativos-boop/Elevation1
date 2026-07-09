@@ -14,7 +14,7 @@ const IMGS = {
   surgeonB:     UNSPLASH("photo-1639154968821-6dbc3efb8d23", 400, 300),
   doctorTablet: UNSPLASH("photo-1582750433449-648ed127bb54", 700, 840),
   doctorPortal: "https://res.cloudinary.com/dvm7fjhxs/image/upload/v1783568508/akram-huseyn-brbF5FSnSgI-unsplash_uigy0k.jpg",
-  biomedical:   UNSPLASH("photo-1614935151651-0bea6508db6b", 700, 500),
+  biomedical:   "https://res.cloudinary.com/dvm7fjhxs/image/upload/v1783558935/El_Spine_products-7_s0qshq.jpg",
 };
 
 const outfit: React.CSSProperties = { fontFamily: "'Outfit', sans-serif" };
